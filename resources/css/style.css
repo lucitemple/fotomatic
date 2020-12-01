@@ -112,6 +112,10 @@ header .mobile {
 
 /* Sign Up Section */
 
+.banner {
+  background-image: url("../images/banner-landingpage.jpg");
+}
+
 #sign-up-section {
   display: flex;
   justify-content: flex-start;
